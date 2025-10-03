@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/black">
+
+    <!-- Camera Preview -->
+    <androidx.camera.view.PreviewView
+        android:id="@+id/previewView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <!-- Overlay for barcode detection visualization -->
+    <com.example.barcodescanner.view.OverlayView
+        android:id="@+id/overlayView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <!-- Top Status Panel -->
+    <LinearLayout
+        android:id="@+id/topStatusPanel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="@color/black_semi_transparent"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <!-- Status Text -->
+        <TextView
+            android:id="@+id/statusTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="🚀 Conveyor Scan Ready"
+            android:textColor="@android:color/white"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_marginBottom="12dp" />
+
+        <!-- Counters Row -->
+        <!--LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="8dp">
+
+            <TextView
+                android:id="@+id/toteCountTextView"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ToteID Count: 0"
+                android:textColor="@android:color/white"
+                android:textSize="14sp"
+                android:background="@drawable/counter_background_blue"
+                android:padding="8dp"
+                android:layout_marginEnd="4dp"
+                android:gravity="center" />
+
+            <TextView
+                android:id="@+id/olpnCountTextView"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="OLPN Count: 0"
+                android:textColor="@android:color/white"
+                android:textSize="14sp"
+                android:background="@drawable/counter_background_green"
+                android:padding="8dp"
+                android:layout_marginStart="4dp"
+                android:gravity="center" />
+
+        </LinearLayout-->
+
+        <!-- Connection and Sync Status -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/connectionStatusTextView"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="🔴 Checking..."
+                android:textColor="@android:color/white"
+                android:textSize="12sp"
+                android:layout_marginEnd="8dp" />
+
+            <TextView
+                android:id="@+id/syncStatusTextView"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="🔄 Sync: Ready"
+                android:textColor="@android:color/white"
+                android:textSize="12sp"
+                android:layout_marginStart="8dp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <!-- Zoom Control (Right Side) -->
+    <LinearLayout
+        android:id="@+id/zoomControlLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginEnd="16dp"
+        android:background="@drawable/control_background"
+        android:orientation="vertical"
+        android:padding="12dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ZOOM"
+            android:textColor="@android:color/white"
+            android:textSize="10sp"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:layout_marginBottom="8dp" />
+
+        <SeekBar
+            android:id="@+id/zoomSeekBar"
+            android:layout_width="50dp"
+            android:layout_height="75dp"
+            android:max="100"
+            android:progress="0"
+            android:rotation="270"
+            android:progressTint="@android:color/holo_blue_bright"
+            android:thumbTint="@android:color/holo_blue_bright"
+            android:layout_gravity="left" />
+
+    </LinearLayout>
+
+    <!-- Focus Guide (Center) -->
+    <View
+        android:id="@+id/focusGuide"
+        android:layout_width="4300dp"
+        android:layout_height="600dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/focus_guide"
+        android:alpha="0.3" />
+
+    <!-- Bottom Control Panel -->
+    <LinearLayout
+        android:id="@+id/bottomControlPanel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/black_semi_transparent"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <!-- Instructions -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="📦 Position ToteIDs and OLPNs in view for automatic association"
+            android:textColor="@android:color/white"
+            android:textSize="14sp"
+            android:gravity="center"
+            android:layout_marginBottom="16dp"
+            android:alpha="0.8" />
+
+        <!-- Control Buttons Row -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center">
+
+            <!-- View Results Button -->
+            <!--Button
+                android:id="@+id/viewResultsButton"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_marginEnd="16dp"
+                android:background="@drawable/button_secondary"
+                android:text="📊 Results"
+                android:textColor="@android:color/white"
+                android:textSize="14sp"
+                android:paddingHorizontal="16dp" /-->
+
+            <!-- Main Start/Stop Button -->
+            <Button
+                android:id="@+id/startStopButton"
+                android:layout_width="200dp"
+                android:layout_height="60dp"
+                android:background="@drawable/button_primary_large"
+                android:text="🚀 Start Scan"
+                android:textColor="@android:color/white"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:elevation="6dp" />
+
+        </LinearLayout>
+
+        <!-- Performance Indicators -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="12dp"
+            android:gravity="center">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textColor="@android:color/holo_orange_light"
+                android:textSize="12sp"
+                android:layout_marginEnd="16dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textColor="@android:color/holo_blue_light"
+                android:textSize="12sp"
+                android:layout_marginEnd="16dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="🔄 24/7"
+                android:textColor="@android:color/holo_green_light"
+                android:textSize="12sp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

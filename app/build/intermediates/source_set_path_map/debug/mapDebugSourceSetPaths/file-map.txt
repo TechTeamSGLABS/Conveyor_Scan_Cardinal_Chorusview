@@ -1,0 +1,55 @@
+com.example.barcodescanner.app-constraintlayout-2.0.1-0 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\000eeeb3a976080de8534479deffcae7\transformed\constraintlayout-2.0.1\res
+com.example.barcodescanner.app-jetified-lifecycle-runtime-ktx-2.7.0-1 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\0266c47a835e2ebdc32fb070eef8d9ff\transformed\jetified-lifecycle-runtime-ktx-2.7.0\res
+com.example.barcodescanner.app-jetified-annotation-experimental-1.3.1-2 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\044a53a9a9489a991bd0ee1a620f28e8\transformed\jetified-annotation-experimental-1.3.1\res
+com.example.barcodescanner.app-lifecycle-runtime-2.7.0-3 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\0c9de6e8b53b68ec0f2181aee09adba6\transformed\lifecycle-runtime-2.7.0\res
+com.example.barcodescanner.app-jetified-play-services-basement-18.1.0-4 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\0f868a4ccd545115b65e3f3495103792\transformed\jetified-play-services-basement-18.1.0\res
+com.example.barcodescanner.app-jetified-profileinstaller-1.3.0-5 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\15d64971cd3924a2c3f0249f654ba100\transformed\jetified-profileinstaller-1.3.0\res
+com.example.barcodescanner.app-core-runtime-2.2.0-6 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\17a3917cef6954782a364699a14a5e76\transformed\core-runtime-2.2.0\res
+com.example.barcodescanner.app-sqlite-2.3.1-7 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\180540f55694ea797f710cdb4dcf2eaa\transformed\sqlite-2.3.1\res
+com.example.barcodescanner.app-jetified-play-services-base-18.1.0-8 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\1b162f8515cc275ecbe6a34e62191083\transformed\jetified-play-services-base-18.1.0\res
+com.example.barcodescanner.app-jetified-emoji2-1.2.0-9 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\23079dddfbd5a968bd13417c08031896\transformed\jetified-emoji2-1.2.0\res
+com.example.barcodescanner.app-jetified-lifecycle-process-2.7.0-10 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\287da52ec3bbae0694d5437cb37f8808\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.barcodescanner.app-jetified-viewpager2-1.0.0-11 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\2961a5fc7db403a6b04d3137e5c7aa42\transformed\jetified-viewpager2-1.0.0\res
+com.example.barcodescanner.app-jetified-lifecycle-livedata-core-ktx-2.7.0-12 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\2a4c631272a30b7a52564af479bde3e1\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.example.barcodescanner.app-work-runtime-ktx-2.8.1-13 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\2b0da71c10746a9ef53db1a43b25e72b\transformed\work-runtime-ktx-2.8.1\res
+com.example.barcodescanner.app-jetified-lifecycle-viewmodel-ktx-2.7.0-14 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\3268c6eda01e522576c046c869e20112\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\res
+com.example.barcodescanner.app-jetified-savedstate-1.2.1-15 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\34ab5de4176510fafae49ac65d69a1b1\transformed\jetified-savedstate-1.2.1\res
+com.example.barcodescanner.app-lifecycle-livedata-core-2.7.0-16 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\36f6219df476c5fb7a1251671228bd1b\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.barcodescanner.app-jetified-activity-ktx-1.7.2-17 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\381ca0d39632f7e186a15d9aeb444571\transformed\jetified-activity-ktx-1.7.2\res
+com.example.barcodescanner.app-transition-1.2.0-18 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\38fa88686368b4b30da548a97d7a9090\transformed\transition-1.2.0\res
+com.example.barcodescanner.app-jetified-lifecycle-livedata-ktx-2.7.0-19 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\43fd4b57ddd65e039cb7e3bd3be503e4\transformed\jetified-lifecycle-livedata-ktx-2.7.0\res
+com.example.barcodescanner.app-cardview-1.0.0-20 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\491d34a86f72eae40aedc6c7006cd0aa\transformed\cardview-1.0.0\res
+com.example.barcodescanner.app-jetified-room-ktx-2.5.2-21 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\4b8c9356804fbe9bf0dfc573eb56eb7a\transformed\jetified-room-ktx-2.5.2\res
+com.example.barcodescanner.app-jetified-camera-lifecycle-1.3.2-22 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\4c0cbc36fb1cbaaec95f8d8a77b04a13\transformed\jetified-camera-lifecycle-1.3.2\res
+com.example.barcodescanner.app-jetified-camera-camera2-1.3.2-23 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\4d5288aa712b3dbace647fe9929b918b\transformed\jetified-camera-camera2-1.3.2\res
+com.example.barcodescanner.app-lifecycle-livedata-2.7.0-24 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\4e28790788e6f5b2afbb2cf8d6848786\transformed\lifecycle-livedata-2.7.0\res
+com.example.barcodescanner.app-recyclerview-1.1.0-25 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\5f8fa37a3a1bca1ec0ca27d6c5d43da4\transformed\recyclerview-1.1.0\res
+com.example.barcodescanner.app-jetified-appcompat-resources-1.6.1-26 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\6011873f7f15109bb710d092861d6614\transformed\jetified-appcompat-resources-1.6.1\res
+com.example.barcodescanner.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-27 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\61bf5a5d4ca148d09edc61fb6ee0ead9\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.barcodescanner.app-material-1.9.0-28 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\6c57f9db9434feb06b883f8ee37c3501\transformed\material-1.9.0\res
+com.example.barcodescanner.app-jetified-camera-extensions-1.3.2-29 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\711f8376c0d8c732be7bd0d1ec4c4c60\transformed\jetified-camera-extensions-1.3.2\res
+com.example.barcodescanner.app-coordinatorlayout-1.1.0-30 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\76f522a7a0fb2ffe654bdbc25dbb111c\transformed\coordinatorlayout-1.1.0\res
+com.example.barcodescanner.app-jetified-startup-runtime-1.1.1-31 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\849192fcf17063e054c75c9724619d62\transformed\jetified-startup-runtime-1.1.1\res
+com.example.barcodescanner.app-jetified-lifecycle-service-2.7.0-32 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\8b9cbce14cfe7feebd491264bdad3245\transformed\jetified-lifecycle-service-2.7.0\res
+com.example.barcodescanner.app-drawerlayout-1.1.1-33 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\984bf659d802e67ff4364ebabc4f9eee\transformed\drawerlayout-1.1.1\res
+com.example.barcodescanner.app-appcompat-1.6.1-34 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\a13239927a665a0584d1d12977bafb50\transformed\appcompat-1.6.1\res
+com.example.barcodescanner.app-sqlite-framework-2.3.1-35 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\af483b5d6fb4c6b872f633fa05d65b9b\transformed\sqlite-framework-2.3.1\res
+com.example.barcodescanner.app-fragment-1.3.6-36 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\b03b1612e20d7d06cc5b15b2a44ab6bd\transformed\fragment-1.3.6\res
+com.example.barcodescanner.app-jetified-camera-core-1.3.2-37 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\b36f7817d9c6d54dd92b0d4469f7b7bc\transformed\jetified-camera-core-1.3.2\res
+com.example.barcodescanner.app-jetified-camera-view-1.3.2-38 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\b7df3fd1cc9584ff43d52760295f2f12\transformed\jetified-camera-view-1.3.2\res
+com.example.barcodescanner.app-core-1.12.0-39 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\c29e59ee42ad196fbe0182b7c17809c8\transformed\core-1.12.0\res
+com.example.barcodescanner.app-room-runtime-2.5.2-40 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\c43472d573eb863608c5ac92a90fb1dc\transformed\room-runtime-2.5.2\res
+com.example.barcodescanner.app-jetified-emoji2-views-helper-1.2.0-41 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\c8d0cde341b7b946d25f5f67283826a7\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.example.barcodescanner.app-work-runtime-2.8.1-42 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\d8411fc798ec0c28e1c8e4775c42089c\transformed\work-runtime-2.8.1\res
+com.example.barcodescanner.app-jetified-activity-1.7.2-43 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\de61e9ef5d0e8f58fa2cd64174407f75\transformed\jetified-activity-1.7.2\res
+com.example.barcodescanner.app-lifecycle-viewmodel-2.7.0-44 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\efbae927685ef73e6f8a7e4fb3c23dbe\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.barcodescanner.app-jetified-core-ktx-1.12.0-45 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\f1f8257d56488d0e5b52834a59bc6ff0\transformed\jetified-core-ktx-1.12.0\res
+com.example.barcodescanner.app-jetified-camera-video-1.3.2-46 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\f64f8581dc4298843e81d67a7f9268ed\transformed\jetified-camera-video-1.3.2\res
+com.example.barcodescanner.app-jetified-savedstate-ktx-1.2.1-47 C:\Users\sv_ra\.gradle\caches\8.10.2\transforms\feb8cd0e3a66f3da13faa2969034731c\transformed\jetified-savedstate-ktx-1.2.1\res
+com.example.barcodescanner.app-pngs-48 D:\Rajesh\myreactproject\BarcodeMobileApp\Google\NewCodeUpdates_20-06-2025\mlkit_barcode_scanner Chorus_demo_code_june04_demo_code_DC - 26-06-2025_version2.5\app\build\generated\res\pngs\debug
+com.example.barcodescanner.app-resValues-49 D:\Rajesh\myreactproject\BarcodeMobileApp\Google\NewCodeUpdates_20-06-2025\mlkit_barcode_scanner Chorus_demo_code_june04_demo_code_DC - 26-06-2025_version2.5\app\build\generated\res\resValues\debug
+com.example.barcodescanner.app-packageDebugResources-50 D:\Rajesh\myreactproject\BarcodeMobileApp\Google\NewCodeUpdates_20-06-2025\mlkit_barcode_scanner Chorus_demo_code_june04_demo_code_DC - 26-06-2025_version2.5\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.barcodescanner.app-packageDebugResources-51 D:\Rajesh\myreactproject\BarcodeMobileApp\Google\NewCodeUpdates_20-06-2025\mlkit_barcode_scanner Chorus_demo_code_june04_demo_code_DC - 26-06-2025_version2.5\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.barcodescanner.app-debug-52 D:\Rajesh\myreactproject\BarcodeMobileApp\Google\NewCodeUpdates_20-06-2025\mlkit_barcode_scanner Chorus_demo_code_june04_demo_code_DC - 26-06-2025_version2.5\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.barcodescanner.app-debug-53 D:\Rajesh\myreactproject\BarcodeMobileApp\Google\NewCodeUpdates_20-06-2025\mlkit_barcode_scanner Chorus_demo_code_june04_demo_code_DC - 26-06-2025_version2.5\app\src\debug\res
+com.example.barcodescanner.app-main-54 D:\Rajesh\myreactproject\BarcodeMobileApp\Google\NewCodeUpdates_20-06-2025\mlkit_barcode_scanner Chorus_demo_code_june04_demo_code_DC - 26-06-2025_version2.5\app\src\main\res

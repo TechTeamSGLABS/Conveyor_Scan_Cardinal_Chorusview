@@ -1,0 +1,3 @@
+rootProject.name = "mlkit_barcode_scanner"
+include ':app'
+// Placeholder for settings.gradle

@@ -1,0 +1,7 @@
+#Tue Jul 01 20:52:05 IST 2025
+base.1=D\:\\Rajesh\\myreactproject\\BarcodeMobileApp\\Google\\NewCodeUpdates_20-06-2025\\mlkit_barcode_scanner Chorus_demo_code_june04_demo_code_DC - 26-06-2025_version2.5\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.1=0/classes.dex
+base.0=D\:\\Rajesh\\myreactproject\\BarcodeMobileApp\\Google\\NewCodeUpdates_20-06-2025\\mlkit_barcode_scanner Chorus_demo_code_june04_demo_code_DC - 26-06-2025_version2.5\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

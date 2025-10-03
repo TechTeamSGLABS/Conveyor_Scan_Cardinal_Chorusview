@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/drawable_ic_menu_delete.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/drawable/ic_menu_delete.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/xml_network_security_config.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/drawable_ic_flash_off.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/drawable/ic_flash_off.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/drawable_scanning_frame.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/drawable/scanning_frame.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/menu_menu_results.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/menu/menu_results.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/xml_backup_rules.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/drawable_button_primary.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/drawable/button_primary.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/drawable_ic_zoom_in.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/drawable/ic_zoom_in.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/layout_activity_dashboard.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/drawable_button_primary_large.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/drawable/button_primary_large.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/raw_beep_sound.mp3.flat",
+        "source": "com.example.barcodescanner.app-main-54:/raw/beep_sound.mp3"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/drawable_rounded_button_orange.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/drawable/rounded_button_orange.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.barcodescanner.app-main-54:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/layout_activity_conveyer_results.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/layout/activity_conveyer_results.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.barcodescanner.app-main-54:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/drawable_gradient_overlay_bottom.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/drawable/gradient_overlay_bottom.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/drawable_ic_check_circle.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/drawable/ic_check_circle.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.barcodescanner.app-main-54:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/drawable_ic_flash_on.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/drawable/ic_flash_on.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/drawable_counter_background_green.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/drawable/counter_background_green.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/drawable_gradient_bottom_overlay.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/drawable/gradient_bottom_overlay.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/drawable_ic_zoom_out.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/drawable/ic_zoom_out.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/drawable_button_circle.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/drawable/button_circle.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.barcodescanner.app-main-54:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/drawable_ic_duplicate.png.flat",
+        "source": "com.example.barcodescanner.app-main-54:/drawable/ic_duplicate.png"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/drawable_ic_cancel.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/drawable/ic_cancel.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/drawable_distance_guide.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/drawable/distance_guide.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/layout_activity_photo_capture.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/layout/activity_photo_capture.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/drawable_counter_background_blue.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/drawable/counter_background_blue.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/layout_item_session_card.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/layout/item_session_card.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/drawable_ic_scan.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/drawable/ic_scan.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/drawable_status_badge.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/drawable/status_badge.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/drawable_gradient_overlay_top.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/drawable/gradient_overlay_top.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/layout_activity_results.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/layout/activity_results.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/drawable_focus_guide.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/drawable/focus_guide.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.barcodescanner.app-main-54:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/drawable_ic_checkmark.png.flat",
+        "source": "com.example.barcodescanner.app-main-54:/drawable/ic_checkmark.png"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.barcodescanner.app-main-54:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.barcodescanner.app-main-54:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/drawable_counter_circle.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/drawable/counter_circle.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.barcodescanner.app-main-54:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/drawable_button_secondary.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/drawable/button_secondary.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/drawable_gradient_top_overlay.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/drawable/gradient_top_overlay.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/drawable_ic_checkmark_vector.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/drawable/ic_checkmark_vector.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/layout_activity_conveyer_scan.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/layout/activity_conveyer_scan.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/drawable_ic_history.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/drawable/ic_history.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/drawable_button_retry.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/drawable/button_retry.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.barcodescanner.app-main-54:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/layout_item_association.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/layout/item_association.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/drawable_control_background.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/drawable/control_background.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.barcodescanner.app-main-54:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/layout_item_barcode_result.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/layout/item_barcode_result.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/drawable_button_capture.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/drawable/button_capture.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/layout_activity_main.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/drawable_ic_duplicate_vector.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/drawable/ic_duplicate_vector.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/drawable_button_rounded.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/drawable/button_rounded.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/layout_dialog_image_preview.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/layout/dialog_image_preview.xml"
+    },
+    {
+        "merged": "com.example.barcodescanner.app-debug-52:/drawable_ic_info.xml.flat",
+        "source": "com.example.barcodescanner.app-main-54:/drawable/ic_info.xml"
+    }
+]
